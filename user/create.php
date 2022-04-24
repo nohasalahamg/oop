@@ -2,7 +2,7 @@
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
 
     require '../classes/userClass.php';
-
+//add comment
     # Create OBJ .... 
     $user = new user; 
 
